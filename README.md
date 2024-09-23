@@ -1,5 +1,6 @@
 # C-language-
 
-This is my first git repository.
-Tryin to learn C from scratch for the first time.
-Trying new things wth git hub and C
+This is my first git repository.<br>
+Tryin to learn C from scratch for the first time.<br>
+Trying new things wth git hub and C language.<br>
+I hope its a intesting experience.<br>
