@@ -1,4 +1,4 @@
-# C-language-
+# C_Language
 
 This is my first git repository.<br>
 Tryin to learn C from scratch for the first time.<br>
