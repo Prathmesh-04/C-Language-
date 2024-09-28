@@ -1,0 +1,10 @@
+# Details about my Project
+
+The goal of this project is to make a number guessing game.<br>
+The game will generate a random number form 1-10.<br>
+The player will get 3 tries to guess the random number.<br>
+
+🌟Key Functions Used🌟
+Generating a random number in C  each time programme is run using stdlib.<br> 
+Making use of If and Else statement.<br>
+Using of while loop.
